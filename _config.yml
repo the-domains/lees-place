@@ -2,6 +2,7 @@ name: "Lee's Place"
 favicon: null
 layout_spectrum: 0.5008417621720582
 typography_spectrum: 0.9187204237096012
+title: "Lee's Place"
 cta:
   domain: null
   bucket: null
