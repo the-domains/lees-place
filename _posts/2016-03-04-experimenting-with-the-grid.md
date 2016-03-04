@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:31:29.209Z'
-dateModified: '2016-03-04T11:30:54.498Z'
+datePublished: '2016-03-04T11:33:38.481Z'
+dateModified: '2016-03-04T11:31:58.238Z'
 title: Experimenting with the Grid
 author: []
 sourcePath: _posts/2016-03-04-experimenting-with-the-grid.md
