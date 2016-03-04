@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:37:07.853Z'
-dateModified: '2016-03-04T11:33:51.043Z'
+datePublished: '2016-03-04T11:39:07.583Z'
+dateModified: '2016-03-04T11:37:16.691Z'
 title: Experimenting with the Grid
 author: []
 sourcePath: _posts/2016-03-04-experimenting-with-the-grid.md
