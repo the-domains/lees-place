@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:24:35.360Z'
-dateModified: '2016-03-04T11:24:14.085Z'
+datePublished: '2016-03-04T11:31:29.209Z'
+dateModified: '2016-03-04T11:30:54.498Z'
 title: Experimenting with the Grid
 author: []
 sourcePath: _posts/2016-03-04-experimenting-with-the-grid.md
@@ -42,3 +42,9 @@ Ok.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5c25b8-3810-4ba5-b4de-57b8261bbd8a.jpg)
 
 Here goes...
+
+---
+
+OK. Added an image, but the site isn't displaying as I expected (image in the background only, overlaid by post title, but no text).
+
+---
