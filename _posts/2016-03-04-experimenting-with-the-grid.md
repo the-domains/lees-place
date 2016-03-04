@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T11:14:56.580Z'
-dateModified: '2016-03-04T11:14:54.232Z'
+datePublished: '2016-03-04T11:24:35.360Z'
+dateModified: '2016-03-04T11:24:14.085Z'
 title: Experimenting with the Grid
 author: []
 sourcePath: _posts/2016-03-04-experimenting-with-the-grid.md
@@ -33,3 +33,12 @@ OK. That was straightforward, as is editing to add this line.
 Now to try to amend the rather drab colour scheme...
 
 ---
+
+OK. I forgot to add an image. The colour/design changing thing is interesting, though.
+
+Next, an image.
+
+Ok.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5c25b8-3810-4ba5-b4de-57b8261bbd8a.jpg)
+
+Here goes...
