@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lee's Place]]></title>
         <description><![CDATA[Lee's Place]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lees-place/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 11:13:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 11:15:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lees-place/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Experimenting with the Grid]]></title>
             <description><![CDATA[<article><h1>Experimenting with the Grid</h1><p>This is just a quick post to check out the functionality of what might be my new blog home. The Grid is a piece of software designed to make the creation of websites easier. </p></article>]]></description>
-            <link>undefinedexperimenting-with-the-grid/index.html</link>
+            <link>https://thegrid.ai/lees-place/experimenting-with-the-grid/index.html</link>
             <guid isPermaLink="false">185691bf-8a1c-468a-b16a-10da89c2c6e9</guid>
-            <pubDate>Fri, 04 Mar 2016 11:13:37 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 11:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
