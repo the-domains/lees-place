@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lee's Place]]></title>
+        <description><![CDATA[Lee's Place]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 11:13:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experimenting with the Grid]]></title>
+            <description><![CDATA[<article><h1>Experimenting with the Grid</h1><p>This is just a quick post to check out the functionality of what might be my new blog home. The Grid is a piece of software designed to make the creation of websites easier. </p></article>]]></description>
+            <link>undefinedexperimenting-with-the-grid/index.html</link>
+            <guid isPermaLink="false">185691bf-8a1c-468a-b16a-10da89c2c6e9</guid>
+            <pubDate>Fri, 04 Mar 2016 11:13:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
